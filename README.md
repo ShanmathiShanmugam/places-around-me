@@ -235,8 +235,25 @@ Next start the server from the projects main directory using python3 manage.py r
 
 ## Output:
 ### Client output
+## home
+![Screenshot (88)](https://github.com/ShanmathiShanmugam/places-around-me/assets/121243595/c7ae8a58-6fe2-4200-a4de-88555c85c036)
 
+## school
+![Screenshot (79)](https://github.com/ShanmathiShanmugam/places-around-me/assets/121243595/e15016b0-6bba-4c9f-8fbe-3920c0cbf3f8)
+
+## hospital
+![Screenshot (85)](https://github.com/ShanmathiShanmugam/places-around-me/assets/121243595/9343dab2-f645-4197-8473-1dedcf63f1f9)
+
+## cafe
+![Screenshot (82)](https://github.com/ShanmathiShanmugam/places-around-me/assets/121243595/1097fa94-35f2-4061-a5a6-972cf3bfd0d0)
+
+## ground
+![Screenshot (87)](https://github.com/ShanmathiShanmugam/places-around-me/assets/121243595/5002e25b-35ce-4f69-b40f-1ef23401a2d4)
 ### Server output
+![Screenshot 2023-06-01 211153](https://github.com/ShanmathiShanmugam/places-around-me/assets/121243595/df70a585-cba8-4aeb-b0b6-edb3e76ca135)
+
+### HTML validator
+![Screenshot (89)](https://github.com/ShanmathiShanmugam/places-around-me/assets/121243595/5e2863c9-f642-4c37-9e50-ae499793127d)
 
 ## Result:
 Hence a website has been developed to display details about places around my house.
